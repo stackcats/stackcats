@@ -1,17 +1,17 @@
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?show_icons=true&icon_color=AAADFF&bg_color=282a36&title_color=AAEDFF&text_color=fff&username=stackcats&count_private=true" />
+  <img src="https://github-readme-stats-ten-navy-76.vercel.app/api?show_icons=true&icon_color=AAADFF&bg_color=282a36&title_color=AAEDFF&text_color=fff&username=stackcats&count_private=true" />
 <div>
 
 ##
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stackcats&layout=compact&bg_color=282a36&title_color=AAEDFF&text_color=fff&langs_count=8&exclude_repo=dash-gtk3" />  
+  <img src="https://github-readme-stats-ten-navy-76.vercel.app/api/top-langs/?username=stackcats&layout=compact&bg_color=282a36&title_color=AAEDFF&text_color=fff&langs_count=8&exclude_repo=dash-gtk3" />  
 </div>
 
 ##
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=stackcats&layout=compact&bg_color=282a36&title_color=AAEDFF&text_color=fff" />  
+  <img src="https://github-readme-stats-ten-navy-76.vercel.app/api/wakatime?username=stackcats&layout=compact&bg_color=282a36&title_color=AAEDFF&text_color=fff" />  
 </div>
 
 ##
