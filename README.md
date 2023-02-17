@@ -1,5 +1,5 @@
 <div>
-  <img src="https://github-readme-stats-ten-navy-76.vercel.app/api?show_icons=true&theme=buefy&username=stackcats&count_private=true" alt="Github stats"/>
+  <img src="https://github-readme-stats-ten-navy-76.vercel.app/api?show_icons=true&theme=graywhite&username=stackcats&count_private=true" alt="Github stats"/>
 <div>
 
 ##
@@ -13,7 +13,7 @@
 -->
 
 <div>
-  <img src="https://github-readme-stats-ten-navy-76.vercel.app/api/wakatime?username=stackcats&layout=compact&theme=buefy" />  
+  <img src="https://github-readme-stats-ten-navy-76.vercel.app/api/wakatime?username=stackcats&layout=compact&theme=graywhite" />  
 </div>
 
 ##
