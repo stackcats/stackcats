@@ -13,7 +13,7 @@
 -->
 
 <div>
-  <img src="https://github-readme-stats-ten-navy-76.vercel.app/api/wakatime?username=stackcats&layout=compact&theme=graywhite" />  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=stackcats&range=last_7_days&layout=compact&theme=graywhite" />  
 </div>
 
 ##
