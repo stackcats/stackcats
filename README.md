@@ -18,7 +18,7 @@
 
 ##
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,elixir,go,rust,haskell,js,lua,python,godot,flutter&theme=light)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=clojure,cpp,elixir,go,rust,haskell,js,lua,python,godot,flutter&theme=light)
 
 ##
 
