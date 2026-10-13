@@ -1,19 +1,19 @@
 <div>
-  <img src="https://github-readme-stats-ten-navy-76.vercel.app/api?show_icons=true&theme=graywhite&username=stackcats&count_private=true" alt="Github stats"/>
+  <img src="https://github-stats-extended.vercel.app/api?show_icons=true&theme=graywhite&username=stackcats&count_private=true" alt="Github stats"/>
 <div>
 
 ##
 
 <!--
 <div>
-  <img src="https://github-readme-stats-ten-navy-76.vercel.app/api/top-langs/?username=stackcats&layout=compact&bg_color=282a36&title_color=AAEDFF&text_color=fff&langs_count=8&exclude_repo=dash-gtk3" alt="Github top langs stats"/>  
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=stackcats&layout=compact&bg_color=282a36&title_color=AAEDFF&text_color=fff&langs_count=8&exclude_repo=dash-gtk3" alt="Github top langs stats"/>  
 </div>
 
 ##
 -->
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=stackcats&range=last_7_days&layout=compact&theme=graywhite" />  
+  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=stackcats&range=last_7_days&layout=compact&theme=graywhite" />  
 </div>
 
 ##
